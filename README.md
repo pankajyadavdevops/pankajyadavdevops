@@ -63,7 +63,7 @@ Hello! I'm **Pankaj Yadav**, a DevOps Engineer passionate about optimizing infra
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajyadavdevops&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Pankaj's Top Languages" />
+
   <img src="https://github-contributor-stats.vercel.app/api?username=pankajyadavdevops&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Pankaj's Top Contributed Repositories" />
 </div>
 
