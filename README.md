@@ -3,7 +3,7 @@
 # 👨‍💻 Pankaj Yadav - DevOps Engineer & Cloud Solutions Consultant
 *Creating Scalable Cloud Solutions & Seamless Deployments*
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pankajyadav77/)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pankajyadav/)
 </div>
 
 ---
@@ -54,17 +54,17 @@ Hello! I'm **Pankaj Yadav**, a DevOps Engineer passionate about optimizing infra
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajyadavdevops05&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" alt="Pankaj's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajyadavdevops05&theme=tokyonight&hide_border=true" width="49%" alt="Pankaj's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajyadavdevops&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" alt="Pankaj's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajyadavdevops&theme=tokyonight&hide_border=true" width="49%" alt="Pankaj's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajyadavdevops05&theme=tokyonight" width="100%" alt="Pankaj's Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajyadavdevops&theme=tokyonight" width="100%" alt="Pankaj's Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajyadavdevops05&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Pankaj's Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=pankajyadavdevops05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Pankaj's Top Contributed Repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajyadavdevops&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Pankaj's Top Languages" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=pankajyadavdevops&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Pankaj's Top Contributed Repositories" />
 </div>
 
 ---
@@ -72,7 +72,7 @@ Hello! I'm **Pankaj Yadav**, a DevOps Engineer passionate about optimizing infra
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Pankajyadav77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/Pankajyadav/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
