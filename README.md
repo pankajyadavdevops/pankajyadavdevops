@@ -1,16 +1,18 @@
 <div align="center">
 
-# 👨‍💻 Pankaj Yadav - DevOps Engineer & Cloud Solutions Consultant
+# 👨‍💻 Pankaj Yadav - DevOps Engineer & Cloud Solutions Consultant  
 *Creating Scalable Cloud Solutions & Seamless Deployments*
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pankajyadav/)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajyadavdevops/)  
+[![GitHub](https://img.shields.io/badge/-Visit%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pankajyadavdevops)
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-Hello! I'm **Pankaj Yadav**, a DevOps Engineer passionate about optimizing infrastructures, automating CI/CD pipelines, and driving innovations to enhance productivity and operational efficiency. I bring together technical expertise with strategic insights to connect tech solutions with real-world business impact.
+Hello! I'm **Pankaj Yadav**, a freelance DevOps Engineer passionate about optimizing infrastructures, automating CI/CD pipelines, and driving innovations to enhance productivity and operational efficiency. I bring together deep technical expertise with strategic thinking to deliver real business impact.
 
 🌍 **Based in India, serving clients globally**  
 💼 **Freelance Consultant for DevOps and Cloud Solutions**  
@@ -62,17 +64,15 @@ Hello! I'm **Pankaj Yadav**, a DevOps Engineer passionate about optimizing infra
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajyadavdevops&theme=tokyonight" width="100%" alt="Pankaj's Profile Summary" />
 </div>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pankajyadavdevops&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Pankaj's Top Contributed Repositories" />
-</div>
-
+<!-- Contributor stats widget removed due to 'null' error on new accounts -->
 
 ---
 
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Pankajyadav/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/pankajyadavdevops/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/pankajyadavdevops" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -80,4 +80,3 @@ Hello! I'm **Pankaj Yadav**, a DevOps Engineer passionate about optimizing infra
 🌐 **Let’s build something amazing together!**
 
 ---
-
